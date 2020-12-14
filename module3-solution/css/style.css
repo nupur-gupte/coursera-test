@@ -1,0 +1,35 @@
+body{
+	font-family: 'Balsamiq Sans', cursive;
+	color: black;
+}
+#header-nav{
+	background-color: #a9b3a4;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 42px;
+	padding-top:20px;
+}
+.navbar-brand a{color: black;}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  font-size: 20px;
+}
+#nav-list a:hover {
+  background: white;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#chicken>div,#beef>div,#sushi>div{ background-color: #a9b3a4;
+height: 1000px; }
